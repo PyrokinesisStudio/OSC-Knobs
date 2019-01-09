@@ -66,7 +66,7 @@ SceneComponent::SceneComponent ()
     textEditorPrefix->setText (TRANS("/1/10000/1"));
 
     addAndMakeVisible (label = new Label ("new label",
-                                          TRANS("Pure Chords OSC.Knobs")));
+                                          TRANS("OS OSC.Knobs")));
     label->setFont (Font (11.50f, Font::plain).withTypefaceStyle ("Regular"));
     label->setJustificationType (Justification::centred);
     label->setEditable (false, false, false);
