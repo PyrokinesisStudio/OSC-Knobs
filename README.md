@@ -1,4 +1,3 @@
 # OSC-Knobs
 
-C++ JUCE source code for Four OSC Knobs. An Android app for controlling music applications over the network using
-Open Sound Control capable programs.
+C++ JUCE source code demonstrating a simple Open Sound Control client as an Android app with four knobs for controlling music applications over the network using Open Sound Control capable programs.
